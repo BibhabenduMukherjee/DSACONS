@@ -55,7 +55,8 @@ public:
 int main()
 {
 
-
+    // call the slove fucn
+     slove();
 
 	return 0;
 }

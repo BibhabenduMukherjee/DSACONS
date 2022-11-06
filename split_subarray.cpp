@@ -12,7 +12,7 @@ using namespace std ;
 // Input : Array[] = {1, 1, 2} K = 2 
 // Output : 2 
 
-
+// 2021-22
 
 bool slove(int a[]  , int n  , int  limit , int m)
 {

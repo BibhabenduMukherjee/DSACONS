@@ -5,7 +5,7 @@
 // A substring is a contiguous sequence of characters within the string.
 
  
-
+// 2022
 string slove(string s, string t)
 {
 	unordered_map<char,int> mp;

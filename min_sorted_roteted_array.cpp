@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// 2021-22
+
  int find(vector<int>& nums) {
        
         int l = 0, r = nums.size()-1;

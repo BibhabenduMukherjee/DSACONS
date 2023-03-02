@@ -10,6 +10,7 @@ using namespace std ;
 // Optimal Split is {1, 2}, {3}, {4} . Maximum sum of all subarrays is 4,
 // which is minimum possible for 3 splits.
 // Input : Array[] = {1, 1, 2} K = 2 
+
 // Output : 2 
 
 // 2021-22

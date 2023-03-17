@@ -15,6 +15,7 @@ using namespace std ;
 
 // 2021-22
 
+
 bool slove(int a[]  , int n  , int  limit , int m)
 {
 	int c =1;

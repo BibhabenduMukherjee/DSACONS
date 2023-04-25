@@ -7,6 +7,7 @@ using namespace std ;
 
 // Input : Array[] = {1, 2, 3, 4}, K = 3 
 // Output : 4 
+
 // Optimal Split is {1, 2}, {3}, {4} . Maximum sum of all subarrays is 4,
 // which is minimum possible for 3 splits.
 // Input : Array[] = {1, 1, 2} K = 2 

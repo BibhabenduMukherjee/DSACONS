@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+// easy
 
  int find(vector<int>& nums) {
        

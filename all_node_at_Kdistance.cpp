@@ -2,7 +2,7 @@
 // given a BST root
 // and a node and a value k
 // node value and k is distance 
-// you have to print all the node at k distance from the given node
+// you have to print all the node at k distance from the given nodee
 
 
 
